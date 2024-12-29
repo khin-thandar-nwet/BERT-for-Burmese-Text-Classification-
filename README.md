@@ -4,9 +4,9 @@ BERT, which stands for Bidirectional Encoder Representations from Transformers, 
 
 
 https://github.com/google-research/bert/blob/master/multilingual.md#list-of-languages
-I. Explanatory Data Analysis
-II. Data Preprocessing
-III. Building the Model
-IV. Compiling the Model
-V. Model Evaluation
+I. Explanatory Data Analysis<br>
+II. Data Preprocessing<br>
+III. Building the Model<br>
+IV. Compiling the Model<br>
+V. Model Evaluation<br>
 VI. Classifying Movie Reviews
